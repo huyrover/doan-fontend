@@ -1,0 +1,121 @@
+
+.img-fluid{
+    width: 100%;
+}
+.box-sale {
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+.box-sale .content-sale {
+    border: 1px dashed #c2c2c2;
+    padding: 34px 0;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+}
+.box-sale .content-sale strong {
+    background: #79b6c8;
+    color: #fff;
+    font-size: 12px;
+    line-height: 30px;
+    padding: 0 10px;
+    position: absolute;
+    right: 0;
+    text-transform: uppercase;
+    top: 9px;
+
+}
+.col-md-4{
+    width:270px;
+}
+
+.tengoi{
+    text-align: center;
+    font-style: italic;
+}
+.giagiam{
+    color: aqua;
+}
+.giagoc{
+    text-decoration: line-through;
+}
+.giua{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.giua h4{
+    margin-top: 60px;
+    text-align: center;
+    font-style: normal;
+}
+.giua p{
+    text-align: center;
+}
+.chuyen{
+    text-align: center;
+}
+.chuyenquachuyenlai img{
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+    height: 50px; 
+    width: 50px; 
+    margin: 0 auto;
+}
+.chuyenquachuyenlai{
+    margin-top: 100px;
+    text-align: center;
+    margin: 0 auto;
+    background-image: url(../img/bg-testimonial.jpg);
+    background-size: auto;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.box-blog .block-content .post-info .post-date {
+    margin-top: 25px;
+    color: #79b6c8;
+    font-family: Montserrat,sans-serif;
+    font-size: 14px;
+}
+
+.box-blog .block-content .post-info .post-title {
+    margin-top: 30px;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: Montserrat,sans-serif;
+    font-weight: 700;
+    position: relative;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+}
+
+.see img{
+    height: 400px; 
+    width: 250px; 
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
